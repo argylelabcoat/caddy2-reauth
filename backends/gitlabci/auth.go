@@ -31,8 +31,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/freman/caddy2-reauth/backends"
-	"github.com/freman/caddy2-reauth/jsontypes"
+	"github.com/argylelabcoat/caddy2-reauth/backends"
+	"github.com/argylelabcoat/caddy2-reauth/jsontypes"
 )
 
 // Interface guard

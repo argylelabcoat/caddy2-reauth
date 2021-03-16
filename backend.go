@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/freman/caddy2-reauth/backends"
-	"github.com/freman/caddy2-reauth/backends/gitlabci"
-	"github.com/freman/caddy2-reauth/backends/ldap"
-	"github.com/freman/caddy2-reauth/backends/simple"
-	"github.com/freman/caddy2-reauth/backends/upstream"
+	"github.com/argylelabcoat/caddy2-reauth/backends"
+	"github.com/argylelabcoat/caddy2-reauth/backends/gitlabci"
+	"github.com/argylelabcoat/caddy2-reauth/backends/ldap"
+	"github.com/argylelabcoat/caddy2-reauth/backends/simple"
+	"github.com/argylelabcoat/caddy2-reauth/backends/upstream"
 )
 
 // Backend is an authentication backend.

@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/freman/caddy2-reauth/failures"
-	"github.com/freman/caddy2-reauth/failures/basic"
-	"github.com/freman/caddy2-reauth/failures/redirect"
-	"github.com/freman/caddy2-reauth/failures/status"
+	"github.com/argylelabcoat/caddy2-reauth/failures"
+	"github.com/argylelabcoat/caddy2-reauth/failures/basic"
+	"github.com/argylelabcoat/caddy2-reauth/failures/redirect"
+	"github.com/argylelabcoat/caddy2-reauth/failures/status"
 )
 
 // Failure is a failure mode

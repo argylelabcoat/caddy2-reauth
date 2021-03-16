@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/freman/caddy2-reauth/failures"
-	"github.com/freman/caddy2-reauth/jsontypes"
+	"github.com/argylelabcoat/caddy2-reauth/failures"
+	"github.com/argylelabcoat/caddy2-reauth/jsontypes"
 )
 
 // FailureMode name
